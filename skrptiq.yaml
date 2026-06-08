@@ -3,7 +3,7 @@ id: "18479da6-a5f3-4755-b9a4-5bdbc9196b0d"
 name: "segment-audience"
 display_name: "Segment Audience"
 description: "Divides target market into actionable segments based on behaviour and demographics"
-version: "1.0.3"
+version: "1.0.4"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "prompt"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 1
