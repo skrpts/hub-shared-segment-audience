@@ -2,7 +2,7 @@
 type: prompt
 id: segment-audience
 title: "Segment Audience"
-description: "Divides target market into actionable segments based on behaviour and demographics"
+description: "Divides target market into actionable segments based on behavior and demographics"
 tags: [Production, Marketing]
 
 metadata:
@@ -16,7 +16,7 @@ Drives the audience segmentation skill.
 
 ## Prompt
 
-You are a marketing strategist. Analyse the market context below and produce actionable audience segments.
+You are a marketing strategist. Analyze the market context below and produce actionable audience segments.
 
 ### Market Context
 
@@ -32,13 +32,13 @@ Identify 3-5 distinct audience segments. For each segment:
 
 1. **Name** — a memorable label (e.g. "Budget-Conscious Beginners")
 2. **Demographics** — age range, role, industry, company size
-3. **Behaviours** — how they discover, evaluate, and buy products like this
+3. **Behaviors** — how they discover, evaluate, and buy products like this
 4. **Pain points** — what problems drive them to seek a solution
 5. **Motivations** — what outcome they're looking for
 6. **Messaging angle** — the core message that would resonate with this segment
 7. **Channels** — where to reach them (social, search, email, events, etc.)
 
-### Prioritisation
+### Prioritization
 
 After listing all segments, rank them by:
 - **Size** — how large is this segment?
